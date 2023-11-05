@@ -1,0 +1,45 @@
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 35px;
+    margin-bottom: 45px;
+
+}
+
+h2 {
+    font-family: 'Libre Baskerville', serif;
+    font-weight: bold;
+    color: #D0A477;
+}
+
+.accordion-body{
+    font-family: 'Macondo', cursive;
+}
+
+.card-text {
+    font-family: 'Macondo', cursive;
+    font-weight: bold;
+
+}
+
+
+font-family: 'Libre Baskerville', serif;
+font-family: 'Macondo', cursive;
+
+style="background-color: #D3A67D;
+
+p {
+    font-family: 'Macondo', cursive;
+    text-indent: 25px;
+}
+
+#FFFFFF
+#C9F1FC
+
+.card-title{
+    color: #D0A477;
+}
